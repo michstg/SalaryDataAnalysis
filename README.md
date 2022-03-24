@@ -1,0 +1,2 @@
+# SalaryDataAnalysis
+exploratory data analysis 
